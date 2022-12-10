@@ -1,0 +1,17 @@
+{
+    "name": "user/ipt-10-tcpdf",
+    "autoload": {
+        "psr-4": {
+            "User\\Ipt10Tcpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ScottGalang",
+            "email": "galang.scottrylee@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
